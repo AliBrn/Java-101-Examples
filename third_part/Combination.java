@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class pratik5 {
+public class Combination {
     //Kombinasyon hesabı yapan Java programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
