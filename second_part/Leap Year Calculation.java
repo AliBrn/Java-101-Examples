@@ -2,7 +2,7 @@ package patikajava.ikinci_kisim;
 
 import java.util.Scanner;
 
-public class odev3 {
+public class Leap Year Calculation {
     // Artık Yıl Hesaplayan Java Programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
