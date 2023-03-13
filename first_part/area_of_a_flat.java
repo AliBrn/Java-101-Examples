@@ -2,7 +2,7 @@ package patikajava.birinci_kisim;
 
 import java.util.Scanner;
 
-public class pratik5 {
+public class area_of_a_flat {
     public static void main(String[] args) {
         // Dairenin alanını hesaplayan program
         Scanner klavye=new Scanner(System.in);
