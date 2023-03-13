@@ -2,7 +2,7 @@ package patikajava.birinci_kisim;
 
 import java.util.Scanner;
 
-public class pratik1 {
+public class grade_average {
     // Girilen 3 dersin ortalamasını hesaplayan java programı
     public static void main(String[] args) {
         Scanner klavye =new Scanner(System.in);
