@@ -2,7 +2,7 @@ package patikajava.ikinci_kisim;
 
 import java.util.Scanner;
 
-public class pratik4 {
+public class Suggesting Events Based on Air Temperature {
     //Sıcaklığa göre gidebilceği etkinlikleri  önerme
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
