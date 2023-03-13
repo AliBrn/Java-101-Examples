@@ -2,7 +2,7 @@ package patikajava.ikinci_kisim;
 
 import java.util.Scanner;
 
-public class pratik1 {
+public class calculating machine {
     //Switch-Case Hesap makinesi yapımı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
