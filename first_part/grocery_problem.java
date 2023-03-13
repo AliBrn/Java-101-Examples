@@ -2,7 +2,7 @@ package patikajava.birinci_kisim;
 
 import java.util.Scanner;
 
-public class odev2 {
+public class  grocery_problem {
     // Java ile kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran programı yazın.
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
