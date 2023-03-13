@@ -2,7 +2,7 @@ package patikajava.birinci_kisim;
 
 import java.util.Scanner;
 
-public class pratik3 {
+public class area_of_triangle {
     // 3 kenarı girilen üçgenin alanını hesaplayan program
     public static void main(String[] args) {
          double alan;
