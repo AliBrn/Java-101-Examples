@@ -2,7 +2,7 @@ package patikajava.ikinci_kisim;
 
 import java.util.Scanner;
 
-public class pratik6 {
+public class Horoscope Finder Program {
     //Doğdugun gün ve aya  göre burcunu hesaplayan java programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
