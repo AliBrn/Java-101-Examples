@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class pratik13 {
+public class EBOB- EKOK Project {
     //Ebob Ekok bulan Java Programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
