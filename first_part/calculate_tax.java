@@ -2,7 +2,7 @@ package patikajava.birinci_kisim;
 
 import java.util.Scanner;
 
-public class pratik2 {
+public class calculate_tax {
     // kdv tutarı  hesaplayan program
     public static void main(String[] args) {
         double tutar,kdvtutari,kdvlitutar;
