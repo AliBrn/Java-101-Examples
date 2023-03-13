@@ -2,8 +2,8 @@ package patikajava.birinci_kisim;
 
 import java.util.Scanner;
 
-public class pratik4 {
-    // km cinsinde taksimetre açılış ücreti 10 min  ücret talebi 20
+public class taximeter {
+    // km cinsinde taksimetre açılış ücreti=10   min ücret talebi 20
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
         double total,perkm=2.20,startPrice=10.0;
