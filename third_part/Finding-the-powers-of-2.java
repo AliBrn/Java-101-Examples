@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class pratik3 {
+public class Finding-the-powers-of-2 {
     // Bir sayı girilip 2 nin kuvvetine kdar olan sayıları ekrana yazan Java Programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
