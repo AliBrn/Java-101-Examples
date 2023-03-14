@@ -2,20 +2,19 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class odev3 {
+public class Reversed-star {
     //Yıldızları tersten yapan Java Programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
-        System.out.println("Sayı giriniz");
-       int  satir= klavye.nextInt();
-        for (int i = satir; i >= 0; i--) {
-            for (int a = satir - i; a > 0; a--) {
+      int  satir= klavye.nextInt();
+        for (int i =satir; i>=1 ; i--) {
+            for (int j =satir-i; j>=1 ; j--) {
                 System.out.print(" ");
             }
-            for (int x = (2 * i + 1); x > 0; x--) {
+            for (int k =(2*i-1); k>=1 ; k--) {
                 System.out.print("*");
             }
-            System.out.println(" ");
+            System.out.println();
         }
     }
 }
