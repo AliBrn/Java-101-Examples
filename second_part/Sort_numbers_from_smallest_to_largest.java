@@ -2,7 +2,7 @@ package patikajava.ikinci_kisim;
 
 import java.util.Scanner;
 
-public class Sort numbers from smallest to largest {
+public class Sort_numbers_from_smallest_to_largest {
     // Girilen 3 sayıyı küçükten büyüğe sıralama
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
