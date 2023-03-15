@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class Average of numbers divisible by 3 and 4 {
+public class Average_of_numbers_divisible_by_3_and_4 {
     //0 dan başlayıp girilen sayıya kadar 3 ve 4 e tam bölenlerin ortalamasını hesaplayan Java Program(0' dan  başladıgı için 1 fazla sayac)
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
