@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class exponential numbers {
+public class Exponential_numbers {
     //Üs alan Java Programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
