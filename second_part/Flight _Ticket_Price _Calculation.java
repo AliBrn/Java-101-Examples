@@ -2,7 +2,7 @@ package patikajava.ikinci_kisim;
 
 import java.util.Scanner;
 
-public class Flight Ticket Price Calculation {
+public class Flight_Ticket_Price_Calculation {
     //Uçak bileti hesaplayan Java programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
