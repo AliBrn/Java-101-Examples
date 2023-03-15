@@ -2,7 +2,7 @@ package patikajava.ikinci_kisim;
 
 import java.util.Scanner;
 
-public class User login {
+public class User_login {
     //Kullanıcı Girişli Bilgi Sistemi Şifre değiştirebilmeli
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
