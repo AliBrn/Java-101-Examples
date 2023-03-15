@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class Program to Find Prime Numbers Between 1-100 {
+public class Program_to_Find_Prime_Numbers_Between_1_100 {
     // 1-100 arasındaki asal sayıları bulan Java Programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
