@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class Reversed-star {
+public class Reversed_star {
     //Yıldızları tersten yapan Java Programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
