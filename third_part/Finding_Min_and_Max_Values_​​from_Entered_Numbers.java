@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class Finding Min and Max Values from Entered Numbers {
+public class Finding_Min_and_Max_Values_from_Entered_Numbers {
        //Kullanıcı girdiği sayılardan en küçüğünü ve en büyüğünü bulan Java Programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
