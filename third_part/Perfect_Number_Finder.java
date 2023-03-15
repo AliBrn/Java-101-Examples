@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class Perfect Number Finder {
+public class Perfect_Number_Finder {
     //Mükemmel Sayı bulan Java Programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
