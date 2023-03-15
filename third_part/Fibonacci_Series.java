@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class Fibonacci Series {
+public class Fibonacci_Series {
     // Fibonacci Serisi
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
