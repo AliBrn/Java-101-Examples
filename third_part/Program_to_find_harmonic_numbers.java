@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class Program to find harmonic numbers {
+public class Program_to_find_harmonic_numbers {
     //Harmonik serisi 1+1/2+1/3+.... 1/n giden seriyi toplama
     public static void main(String[] args) {
         Scanner klavye = new Scanner(System.in);
