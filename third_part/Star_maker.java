@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class Star-maker {
+public class Star_maker {
     //Girilen sayı kadar yıldız yapan Java programı
     public static void main(String[] args) {
         Scanner klavye = new Scanner(System.in);
