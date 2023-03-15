@@ -2,7 +2,7 @@ package patikajava.ucuncu_kisim;
 
 import java.util.Scanner;
 
-public class Writing powers of 4 and 5 to the screen {
+public class Writing_powers_of_4_and_5_to_the_screen {
     //Girilen sayının 4'e ve 5'e bölünenleri ekrana yazan Java programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
