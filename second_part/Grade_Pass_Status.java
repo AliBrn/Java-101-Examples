@@ -2,7 +2,7 @@ package patikajava.ikinci_kisim;
 
 import java.util.Scanner;
 
-public class Grade Pass Status {
+public class Grade_Pass_Status {
     //Girilen 5 dersin ortalamasını hesaplayıp 0 la 100 olanları ortalamaya katan java programı
     public static void main(String[] args) {
         Scanner klavye=new Scanner(System.in);
